@@ -1,0 +1,101 @@
+title,main_acquisition,main_crafting,prime_acquisition,prime_vaulting,prime_crafting,abilities
+Ash,"All drop rates data is obtained from DE's official drop tables.
+See Mission Rewards#Standard Missions for definitions on reward table rotations.
+For more detailed definitions and information,
+visit here.",,,,,"125
+
+Shuriken
+Launches a spinning blade of pain, dealing high damage and impaling enemies to walls.
+
+
+Introduced in Vanilla (2012-10-25)
+
+
+ Strength:100 / 250 / 350 / 500 ( Slash damage on hit)
+
+
+ Duration:N/A
+
+
+ Range:N/A
+
+
+
+Misc:
+1 / 1 / 2 / 2 (number of shurikens)6 m (auto-target radius)60 m (targeting range)90° (homing angle) Slash status on hit
+
+
+
+Subsumable to Helminth
+235
+
+Smoke Screen
+Drops a smoke bomb that stuns enemies and obscures their vision, rendering Ash invisible for a short time.
+
+
+Introduced in Vanilla (2012-10-25)
+
+
+ Strength:N/A
+
+
+ Duration:2 / 4 / 6 / 8 s
+
+
+ Range:10 m
+
+
+
+Misc:
+Stagger on hit
+325
+
+Teleport
+Ash teleports towards the target, bringing him into melee range and making enemies vulnerable to finishers.
+
+
+Introduced in Vanilla (2012-10-25)
+
+
+ Strength:N/A
+
+
+ Duration:N/A
+
+
+ Range:20 / 45 / 45 / 60 m
+
+
+
+Misc:
+Stagger on teleportMelee finisher prompt100 % (energy discount on Blade Storm target)
+40+6-12/mark
+
+Blade Storm
+Project fierce shadow clones of Ash upon groups of distant enemies. Join the fray using Teleport.
+
+
+Introduced in Vanilla (2012-10-25)
+
+
+ Strength:750 / 1000 / 1500 / 2000 ( True damage)
+
+
+ Duration:N/A
+
+
+ Range:50 m
+
+
+
+Misc:
+3 (number of hits per mark)2 (number of Shadow Clones) Slash status per hit50 % (invisible mark discount)100 % (energy discount for Teleport on marked enemy)
+Strength Mods
+
+
+
+Duration Mods
+
+
+
+Range Mods"

@@ -1,0 +1,10 @@
+title,section,sentence
+Ash,main_acquisition,All drop rates data is obtained from DEs official drop tables.
+Ash,main_acquisition,See Mission RewardsStandard Missions for definitions on reward table rotations.
+Ash,main_acquisition,"For more detailed definitions and information, visit here."
+Ash,abilities,"125 Shuriken Launches a spinning blade of pain, dealing high damage and impaling enemies to walls."
+Ash,abilities,"Introduced in Vanilla 20121025 Strength100 250 350 500 Slash damage on hit DurationNA RangeNA Misc 1 1 2 2 number of shurikens6 m autotarget radius60 m targeting range90 homing angle Slash status on hit Subsumable to Helminth 235 Smoke Screen Drops a smoke bomb that stuns enemies and obscures their vision, rendering Ash invisible for a short time."
+Ash,abilities,"Introduced in Vanilla 20121025 StrengthNA Duration2 4 6 8 s Range10 m Misc Stagger on hit 325 Teleport Ash teleports towards the target, bringing him into melee range and making enemies vulnerable to finishers."
+Ash,abilities,Introduced in Vanilla 20121025 StrengthNA DurationNA Range20 45 45 60 m Misc Stagger on teleportMelee finisher prompt100 energy discount on Blade Storm target 40612mark Blade Storm Project fierce shadow clones of Ash upon groups of distant enemies.
+Ash,abilities,Join the fray using Teleport.
+Ash,abilities,Introduced in Vanilla 20121025 Strength750 1000 1500 2000 True damage DurationNA Range50 m Misc 3 number of hits per mark2 number of Shadow Clones Slash status per hit50 invisible mark discount100 energy discount for Teleport on marked enemy Strength Mods Duration Mods Range Mods
